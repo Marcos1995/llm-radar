@@ -4486,7 +4486,7 @@
  {
   "slug": "google-gemma-4-26b-a4b-it",
   "title": "Google: Gemma 4 26B A4B",
-  "summary": "Google: Gemma 4 26B A4B (google/gemma-4-26b-a4b-it): el precio de prompt es 0.0765 USD por 1M tokens y el precio de completion es 0.255 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada image, text, video; salida text; fecha de creacion 2026-04-03; variacion frente al snapshot anterior: prompt -0.0135 USD/1M; completion -0.045 USD/1M; pesos: google/gemma-4-26B-A4B-it.",
+  "summary": "Google: Gemma 4 26B A4B (google/gemma-4-26b-a4b-it): el precio de prompt es 0.0765 USD por 1M tokens y el precio de completion es 0.255 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada image, text, video; salida text; fecha de creacion 2026-04-03; variacion frente al snapshot anterior: sin cambio; pesos: google/gemma-4-26B-A4B-it.",
   "facts": [
    [
     "Precio prompt / 1M",
@@ -4510,7 +4510,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt -0.0135 USD/1M; completion -0.045 USD/1M"
+    "sin cambio"
    ],
    [
     "Pesos",
@@ -7450,7 +7450,7 @@
  {
   "slug": "moonshotai-kimi-latest",
   "title": "MoonshotAI: Kimi Latest",
-  "summary": "MoonshotAI: Kimi Latest (~moonshotai/kimi-latest): el precio de prompt es 0.19 USD por 1M tokens y el precio de completion es 11 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image, video; salida text; fecha de creacion 2026-04-27; variacion frente al snapshot anterior: prompt -0.0041 USD/1M; completion +3.6375 USD/1M; pesos: no publicados.",
+  "summary": "MoonshotAI: Kimi Latest (~moonshotai/kimi-latest): el precio de prompt es 0.19 USD por 1M tokens y el precio de completion es 11 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image, video; salida text; fecha de creacion 2026-04-27; variacion frente al snapshot anterior: sin cambio; pesos: no publicados.",
   "facts": [
    [
     "Precio prompt / 1M",
@@ -7474,7 +7474,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt -0.0041 USD/1M; completion +3.6375 USD/1M"
+    "sin cambio"
    ],
    [
     "Pesos",
@@ -17216,7 +17216,7 @@
  {
   "slug": "z-ai-glm-5-2",
   "title": "Z.ai: GLM 5.2",
-  "summary": "Z.ai: GLM 5.2 (z-ai/glm-5.2): el precio de prompt es 0.624 USD por 1M tokens y el precio de completion es 3.99 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-06-16; variacion frente al snapshot anterior: prompt +0.104 USD/1M; completion sin cambio; pesos: zai-org/GLM-5.2.",
+  "summary": "Z.ai: GLM 5.2 (z-ai/glm-5.2): el precio de prompt es 0.624 USD por 1M tokens y el precio de completion es 3.99 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-06-16; variacion frente al snapshot anterior: sin cambio; pesos: zai-org/GLM-5.2.",
   "facts": [
    [
     "Precio prompt / 1M",
@@ -17240,7 +17240,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt +0.104 USD/1M; completion sin cambio"
+    "sin cambio"
    ],
    [
     "Pesos",
