@@ -1,14 +1,19 @@
 # Graph Report - llm-radar  (2026-09-30)
 
 ## Corpus Check
-- 14 files · ~3,091 words
+- 16 files · ~60,771 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 3 file(s) not represented in the graph (top: .mdc 2, (none) 1)
 
 ## Summary
-- 62 nodes · 54 edges · 13 communities (10 shown, 3 thin omitted)
+- 78 nodes · 92 edges · 13 communities (11 shown, 2 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
+
+## Graph Freshness
+- Built from commit: `86b837d7`
+- Run `git rev-parse HEAD` and compare to check if the graph is stale.
+- Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
 - build.py
@@ -24,16 +29,16 @@
 - fetch.py
 
 ## God Nodes (most connected - your core abstractions)
-1. `Debug` - 6 edges
-2. `Contexto del proyecto` - 6 edges
-3. `build()` - 5 edges
-4. `Verify (UI)` - 4 edges
-5. `Web design` - 4 edges
-6. `esc()` - 3 edges
-7. `page()` - 3 edges
-8. `Build judgments with Laya` - 3 edges
-9. `Laya` - 3 edges
-10. `Review` - 3 edges
+1. `main()` - 11 edges
+2. `Debug` - 6 edges
+3. `Contexto del proyecto` - 6 edges
+4. `build()` - 5 edges
+5. `fail()` - 4 edges
+6. `load_json()` - 4 edges
+7. `plain()` - 4 edges
+8. `price_label()` - 4 edges
+9. `change_phrase()` - 4 edges
+10. `Verify (UI)` - 4 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
@@ -41,7 +46,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (13 total, 3 thin omitted)
+## Communities (13 total, 2 thin omitted)
 
 ### Community 0 - "build.py"
 Cohesion: 0.20
@@ -83,10 +88,14 @@ Nodes (3): Check, Do, Review
 Cohesion: 0.50
 Nodes (3): Docs, Project, Setup
 
+### Community 10 - "fetch.py"
+Cohesion: 0.22
+Nodes (17): Decimal, change_phrase(), fail(), fetch_models(), load_json(), main(), modality_text(), plain() (+9 more)
+
 ## Knowledge Gaps
 - **26 isolated node(s):** `1. Root cause`, `2. Compare`, `3. Hypothesis`, `4. Fix`, `Red flags → back to step 1` (+21 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 47 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
-- **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 43 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **2 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
