@@ -191,11 +191,13 @@ def main() -> None:
 
         created = datetime.fromtimestamp(int(created_ts), timezone.utc).strftime("%Y-%m-%d")
         ctx_label = f"{int(ctx)} tokens"
+        hf = model.get("hugging_face_id")
+        pesos = hf.strip() if isinstance(hf, str) and hf.strip() else "no publicados"
         summary = (
             f"{name} ({model_id}): {price_clause('prompt', prompt_label)} y "
             f"{price_clause('completion', completion_label)}, con contexto de {ctx_label}. "
             f"Modalidad {modality}; fecha de creacion {created}; "
-            f"variacion frente al snapshot anterior: {var}."
+            f"variacion frente al snapshot anterior: {var}; pesos: {pesos}."
         )
         facts = [
             ["Precio prompt / 1M", prompt_label],
@@ -204,6 +206,7 @@ def main() -> None:
             ["Modalidades", modality],
             ["Fecha de creacion", created],
             ["Variacion de precio", var],
+            ["Pesos", pesos],
         ]
         source = f"https://openrouter.ai/{model_id}"
         updated = today

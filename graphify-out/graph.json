@@ -4,66 +4,6 @@
   "graph": {},
   "nodes": [
     {
-      "id": "build_build",
-      "label": "build()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "build.py",
-      "file_type": "code",
-      "norm_label": "build()",
-      "source_file": "build.py",
-      "source_location": "L119"
-    },
-    {
-      "id": "build_esc",
-      "label": "esc()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "build.py",
-      "file_type": "code",
-      "norm_label": "esc()",
-      "source_file": "build.py",
-      "source_location": "L69"
-    },
-    {
-      "id": "build_page",
-      "label": "page()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "build.py",
-      "file_type": "code",
-      "norm_label": "page()",
-      "source_file": "build.py",
-      "source_location": "L91"
-    },
-    {
-      "id": "build_validate",
-      "label": "validate()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "build.py",
-      "file_type": "code",
-      "norm_label": "validate()",
-      "source_file": "build.py",
-      "source_location": "L73"
-    },
-    {
-      "id": "build_write",
-      "label": "write()",
-      "_callable": true,
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "build.py",
-      "file_type": "code",
-      "norm_label": "write()",
-      "source_file": "build.py",
-      "source_location": "L113"
-    },
-    {
       "id": "fetch_change_phrase",
       "label": "change_phrase()",
       "_callable": true,
@@ -220,6 +160,210 @@
       "source_location": "L100"
     },
     {
+      "id": "build_bars_html",
+      "label": "bars_html()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 14,
+      "community_name": "build",
+      "file_type": "code",
+      "norm_label": "bars_html()",
+      "source_file": "build.py",
+      "source_location": "L217"
+    },
+    {
+      "id": "build_build",
+      "label": "build()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 14,
+      "community_name": "build",
+      "file_type": "code",
+      "norm_label": "build()",
+      "source_file": "build.py",
+      "source_location": "L278"
+    },
+    {
+      "id": "build_esc",
+      "label": "esc()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 14,
+      "community_name": "build",
+      "file_type": "code",
+      "norm_label": "esc()",
+      "source_file": "build.py",
+      "source_location": "L100"
+    },
+    {
+      "id": "build_page",
+      "label": "page()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 14,
+      "community_name": "build",
+      "file_type": "code",
+      "norm_label": "page()",
+      "source_file": "build.py",
+      "source_location": "L249"
+    },
+    {
+      "id": "build_validate",
+      "label": "validate()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 14,
+      "community_name": "build",
+      "file_type": "code",
+      "norm_label": "validate()",
+      "source_file": "build.py",
+      "source_location": "L231"
+    },
+    {
+      "id": "build_write",
+      "label": "write()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 14,
+      "community_name": "build",
+      "file_type": "code",
+      "norm_label": "write()",
+      "source_file": "build.py",
+      "source_location": "L272"
+    },
+    {
+      "id": "build_fact_map",
+      "label": "fact_map()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 15,
+      "community_name": "priced",
+      "file_type": "code",
+      "norm_label": "fact_map()",
+      "source_file": "build.py",
+      "source_location": "L121"
+    },
+    {
+      "id": "build_model_id_of",
+      "label": "model_id_of()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 15,
+      "community_name": "priced",
+      "file_type": "code",
+      "norm_label": "model_id_of()",
+      "source_file": "build.py",
+      "source_location": "L143"
+    },
+    {
+      "id": "build_parse_ctx",
+      "label": "parse_ctx()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 15,
+      "community_name": "priced",
+      "file_type": "code",
+      "norm_label": "parse_ctx()",
+      "source_file": "build.py",
+      "source_location": "L134"
+    },
+    {
+      "id": "build_parse_usd",
+      "label": "parse_usd()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 15,
+      "community_name": "priced",
+      "file_type": "code",
+      "norm_label": "parse_usd()",
+      "source_file": "build.py",
+      "source_location": "L125"
+    },
+    {
+      "id": "build_priced",
+      "label": "priced()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 15,
+      "community_name": "priced",
+      "file_type": "code",
+      "norm_label": "priced()",
+      "source_file": "build.py",
+      "source_location": "L149"
+    },
+    {
+      "id": "build_card_html",
+      "label": "card_html()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 16,
+      "community_name": "card_html",
+      "file_type": "code",
+      "norm_label": "card_html()",
+      "source_file": "build.py",
+      "source_location": "L201"
+    },
+    {
+      "id": "build_compact",
+      "label": "compact()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 16,
+      "community_name": "card_html",
+      "file_type": "code",
+      "norm_label": "compact()",
+      "source_file": "build.py",
+      "source_location": "L111"
+    },
+    {
+      "id": "build_plain",
+      "label": "plain()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 16,
+      "community_name": "card_html",
+      "file_type": "code",
+      "norm_label": "plain()",
+      "source_file": "build.py",
+      "source_location": "L104"
+    },
+    {
+      "id": "build_band_of",
+      "label": "band_of()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 17,
+      "community_name": "band_of",
+      "file_type": "code",
+      "norm_label": "band_of()",
+      "source_file": "build.py",
+      "source_location": "L169"
+    },
+    {
+      "id": "build_picks_for",
+      "label": "picks_for()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 17,
+      "community_name": "band_of",
+      "file_type": "code",
+      "norm_label": "picks_for()",
+      "source_file": "build.py",
+      "source_location": "L179"
+    },
+    {
+      "id": "build_picks_for_best",
+      "label": "best()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 17,
+      "community_name": "band_of",
+      "file_type": "code",
+      "norm_label": "best()",
+      "source_file": "build.py",
+      "source_location": "L180"
+    },
+    {
       "id": "build",
       "label": "build.py",
       "_origin": "ast",
@@ -330,17 +474,6 @@
       "source_location": "L35"
     },
     {
-      "id": "decimal",
-      "label": "Decimal",
-      "_origin": "ast",
-      "community": 10,
-      "community_name": "fetch.py",
-      "file_type": "code",
-      "norm_label": "decimal",
-      "source_file": "",
-      "source_location": ""
-    },
-    {
       "id": "fetch",
       "label": "fetch.py",
       "_origin": "ast",
@@ -350,6 +483,17 @@
       "norm_label": "fetch.py",
       "source_file": "fetch.py",
       "source_location": "L1"
+    },
+    {
+      "id": "fetch_py_decimal",
+      "label": "Decimal",
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "decimal",
+      "source_file": "",
+      "source_location": ""
     },
     {
       "id": "path",
@@ -445,6 +589,41 @@
       "source_location": "L7"
     },
     {
+      "id": "build_py_decimal",
+      "label": "Decimal",
+      "_origin": "ast",
+      "community": 16,
+      "community_name": "card_html",
+      "file_type": "code",
+      "norm_label": "decimal",
+      "source_file": "",
+      "source_location": ""
+    },
+    {
+      "id": "docs_decisiones",
+      "label": "DECISIONES.md",
+      "_origin": "ast",
+      "community": 18,
+      "community_name": "DECISIONES.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "decisiones.md",
+      "source_file": "docs/DECISIONES.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "docs_decisiones_decisiones",
+      "label": "Decisiones",
+      "_origin": "ast",
+      "community": 18,
+      "community_name": "DECISIONES.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "decisiones",
+      "source_file": "docs/DECISIONES.md",
+      "source_location": "L1"
+    },
+    {
       "id": "project",
       "label": "PROJECT.md",
       "_origin": "ast",
@@ -466,7 +645,7 @@
       "node_kind": "heading",
       "norm_label": "comandos utiles",
       "source_file": "PROJECT.md",
-      "source_location": "L18"
+      "source_location": "L19"
     },
     {
       "id": "project_contexto_del_proyecto",
@@ -502,7 +681,7 @@
       "node_kind": "heading",
       "norm_label": "notas para el agente",
       "source_file": "PROJECT.md",
-      "source_location": "L23"
+      "source_location": "L24"
     },
     {
       "id": "project_produccion",
@@ -526,7 +705,7 @@
       "node_kind": "heading",
       "norm_label": "stack",
       "source_file": "PROJECT.md",
-      "source_location": "L14"
+      "source_location": "L15"
     },
     {
       "id": "cursor_skills_verify_skill",
@@ -1008,6 +1187,18 @@
   ],
   "links": [
     {
+      "source": "build_bars_html",
+      "target": "build_esc",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L223",
+      "weight": 1.0
+    },
+    {
       "source": "build_build",
       "target": "build_validate",
       "relation": "calls",
@@ -1016,7 +1207,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "build.py",
-      "source_location": "L122",
+      "source_location": "L281",
       "weight": 1.0
     },
     {
@@ -1028,7 +1219,43 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "build.py",
-      "source_location": "L136",
+      "source_location": "L295",
+      "weight": 1.0
+    },
+    {
+      "source": "build_build",
+      "target": "build_priced",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L297",
+      "weight": 1.0
+    },
+    {
+      "source": "build_build",
+      "target": "build_band_of",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L299",
+      "weight": 1.0
+    },
+    {
+      "source": "build_build",
+      "target": "build_plain",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L301",
       "weight": 1.0
     },
     {
@@ -1040,7 +1267,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "build.py",
-      "source_location": "L153",
+      "source_location": "L321",
       "weight": 1.0
     },
     {
@@ -1052,7 +1279,127 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "build.py",
-      "source_location": "L153",
+      "source_location": "L321",
+      "weight": 1.0
+    },
+    {
+      "source": "build_build",
+      "target": "build_picks_for",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L349",
+      "weight": 1.0
+    },
+    {
+      "source": "build_build",
+      "target": "build_card_html",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L350",
+      "weight": 1.0
+    },
+    {
+      "source": "build_build",
+      "target": "build_bars_html",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L362",
+      "weight": 1.0
+    },
+    {
+      "source": "build_build",
+      "target": "build_compact",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L363",
+      "weight": 1.0
+    },
+    {
+      "source": "build_build",
+      "target": "build_fact_map",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L386",
+      "weight": 1.0
+    },
+    {
+      "source": "build_build",
+      "target": "build_parse_ctx",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L393",
+      "weight": 1.0
+    },
+    {
+      "source": "build_card_html",
+      "target": "build_compact",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L204",
+      "weight": 1.0
+    },
+    {
+      "source": "build_card_html",
+      "target": "build_plain",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L208",
+      "weight": 1.0
+    },
+    {
+      "source": "build_card_html",
+      "target": "build_esc",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L210",
+      "weight": 1.0
+    },
+    {
+      "source": "build_compact",
+      "target": "build_plain",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L118",
       "weight": 1.0
     },
     {
@@ -1064,7 +1411,67 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "build.py",
-      "source_location": "L95",
+      "source_location": "L253",
+      "weight": 1.0
+    },
+    {
+      "source": "build_picks_for",
+      "target": "build_band_of",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L186",
+      "weight": 1.0
+    },
+    {
+      "source": "build_priced",
+      "target": "build_fact_map",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L150",
+      "weight": 1.0
+    },
+    {
+      "source": "build_priced",
+      "target": "build_parse_usd",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L151",
+      "weight": 1.0
+    },
+    {
+      "source": "build_priced",
+      "target": "build_parse_ctx",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L152",
+      "weight": 1.0
+    },
+    {
+      "source": "build_priced",
+      "target": "build_model_id_of",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L155",
       "weight": 1.0
     },
     {
@@ -1220,7 +1627,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "fetch.py",
-      "source_location": "L195",
+      "source_location": "L197",
       "weight": 1.0
     },
     {
@@ -1232,7 +1639,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "fetch.py",
-      "source_location": "L218",
+      "source_location": "L221",
       "weight": 1.0
     },
     {
@@ -1257,6 +1664,18 @@
       "context": "call",
       "source_file": "fetch.py",
       "source_location": "L105",
+      "weight": 1.0
+    },
+    {
+      "source": "build_picks_for",
+      "target": "build_picks_for_best",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L180",
       "weight": 1.0
     },
     {
@@ -1381,7 +1800,7 @@
     },
     {
       "source": "build",
-      "target": "pathlib",
+      "target": "build_py_decimal",
       "relation": "imports_from",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -1389,6 +1808,18 @@
       "context": "import",
       "source_file": "build.py",
       "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "build.py",
+      "source_location": "L13",
       "weight": 1.0
     },
     {
@@ -1405,7 +1836,7 @@
     },
     {
       "source": "fetch",
-      "target": "decimal",
+      "target": "fetch_py_decimal",
       "relation": "imports_from",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -1428,6 +1859,42 @@
       "weight": 1.0
     },
     {
+      "source": "build_band_of",
+      "target": "build_py_decimal",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "parameter_type",
+      "source_file": "build.py",
+      "source_location": "L169",
+      "weight": 1.0
+    },
+    {
+      "source": "build_compact",
+      "target": "build_py_decimal",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "parameter_type",
+      "source_file": "build.py",
+      "source_location": "L111",
+      "weight": 1.0
+    },
+    {
+      "source": "build_plain",
+      "target": "build_py_decimal",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "parameter_type",
+      "source_file": "build.py",
+      "source_location": "L104",
+      "weight": 1.0
+    },
+    {
       "source": "fetch_load_json",
       "target": "path",
       "relation": "references",
@@ -1441,7 +1908,7 @@
     },
     {
       "source": "fetch_plain",
-      "target": "decimal",
+      "target": "fetch_py_decimal",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -1449,6 +1916,18 @@
       "context": "parameter_type",
       "source_file": "fetch.py",
       "source_location": "L69",
+      "weight": 1.0
+    },
+    {
+      "source": "build_parse_usd",
+      "target": "build_py_decimal",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "return_type",
+      "source_file": "build.py",
+      "source_location": "L125",
       "weight": 1.0
     },
     {
@@ -1486,35 +1965,134 @@
     },
     {
       "source": "build",
-      "target": "build_write",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "build.py",
-      "source_location": "L113",
-      "weight": 1.0
-    },
-    {
-      "source": "build",
-      "target": "build_build",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "build.py",
-      "source_location": "L119",
-      "weight": 1.0
-    },
-    {
-      "source": "build",
       "target": "build_esc",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "build.py",
-      "source_location": "L69",
+      "source_location": "L100",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_plain",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L104",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_compact",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L111",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_fact_map",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L121",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_parse_usd",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L125",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_parse_ctx",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L134",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_model_id_of",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L143",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_priced",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L149",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_band_of",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L169",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_picks_for",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L179",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_card_html",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L201",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_bars_html",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L217",
       "weight": 1.0
     },
     {
@@ -1525,7 +2103,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "build.py",
-      "source_location": "L73",
+      "source_location": "L231",
       "weight": 1.0
     },
     {
@@ -1536,7 +2114,29 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "build.py",
-      "source_location": "L91",
+      "source_location": "L249",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_write",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L272",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_build",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L278",
       "weight": 1.0
     },
     {
@@ -1815,6 +2415,17 @@
       "weight": 1.0
     },
     {
+      "source": "docs_decisiones",
+      "target": "docs_decisiones_decisiones",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/DECISIONES.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
       "source": "fetch",
       "target": "fetch_variation",
       "relation": "contains",
@@ -1976,7 +2587,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "PROJECT.md",
-      "source_location": "L14",
+      "source_location": "L15",
       "weight": 1.0
     },
     {
@@ -1987,7 +2598,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "PROJECT.md",
-      "source_location": "L18",
+      "source_location": "L19",
       "weight": 1.0
     },
     {
@@ -1998,7 +2609,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "PROJECT.md",
-      "source_location": "L23",
+      "source_location": "L24",
       "weight": 1.0
     },
     {
@@ -2080,5 +2691,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "524d1a6c5d4f6b60e76f003e87ff3fa4a557b742"
+  "built_at_commit": "7513da468863d5c0a75e269ea256634e80f8f5a8"
 }

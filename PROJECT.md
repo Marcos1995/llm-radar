@@ -7,7 +7,8 @@
 - Vista local: `index.html`
 
 ## Estado
-- Un modelo de OpenRouter por pagina: precio prompt y completion por 1M tokens, contexto, modalidades, fecha de creacion y variacion frente al snapshot anterior.
+- Portada con ganadores por gama, pesos publicados y tokens por dólar, más `/comparar/` para dos modelos. Sin índice de inteligencia: OpenRouter no publica tests.
+- Un modelo por pagina: precio, contexto, modalidades, fecha, variacion y si hay pesos en Hugging Face.
 - `fetch.py` lee la API publica, reescribe `data/items.json` y solo anade en `data/history.json` cuando cambia el precio (la primera observacion tambien se guarda).
 - `build.py` genera `_site/` con el estilo de DESIGN.md (Stitch). La logica de datos del kit no cambia. Mas de 100 paginas indexables.
 
