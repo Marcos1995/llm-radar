@@ -1,0 +1,9 @@
+{
+ "name": "llm-radar",
+ "title": "LLM Radar",
+ "description": "Precios, contexto y cambios de los modelos de IA, en JSON y web.",
+ "site_url": "https://marcos1995.github.io/llm-radar/",
+ "lang": "es",
+ "analytics_token": "",
+ "head_html": ""
+}
