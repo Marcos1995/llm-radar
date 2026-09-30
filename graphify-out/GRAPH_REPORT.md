@@ -1,17 +1,17 @@
 # Graph Report - llm-radar  (2026-09-30)
 
 ## Corpus Check
-- 16 files · ~60,771 words
+- 17 files · ~61,052 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 3 file(s) not represented in the graph (top: .mdc 2, (none) 1)
 
 ## Summary
-- 78 nodes · 92 edges · 13 communities (11 shown, 2 thin omitted)
+- 81 nodes · 94 edges · 14 communities (11 shown, 3 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `86b837d7`
+- Built from commit: `524d1a6c`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -27,6 +27,7 @@
 - Review
 - Project
 - fetch.py
+- LLM Radar
 
 ## God Nodes (most connected - your core abstractions)
 1. `main()` - 11 edges
@@ -46,7 +47,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (13 total, 2 thin omitted)
+## Communities (14 total, 3 thin omitted)
 
 ### Community 0 - "build.py"
 Cohesion: 0.20
@@ -93,12 +94,12 @@ Cohesion: 0.22
 Nodes (17): Decimal, change_phrase(), fail(), fetch_models(), load_json(), main(), modality_text(), plain() (+9 more)
 
 ## Knowledge Gaps
-- **26 isolated node(s):** `1. Root cause`, `2. Compare`, `3. Hypothesis`, `4. Fix`, `Red flags → back to step 1` (+21 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 43 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
-- **2 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **27 isolated node(s):** `1. Root cause`, `2. Compare`, `3. Hypothesis`, `4. Fix`, `Red flags → back to step 1` (+22 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 45 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `1. Root cause`, `2. Compare`, `3. Hypothesis` to the rest of the system?**
-  _26 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _27 weakly-connected nodes found - possible documentation gaps or missing edges._

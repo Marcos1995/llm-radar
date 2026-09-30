@@ -13,7 +13,7 @@
       "file_type": "code",
       "norm_label": "build()",
       "source_file": "build.py",
-      "source_location": "L73"
+      "source_location": "L119"
     },
     {
       "id": "build_esc",
@@ -25,7 +25,7 @@
       "file_type": "code",
       "norm_label": "esc()",
       "source_file": "build.py",
-      "source_location": "L24"
+      "source_location": "L69"
     },
     {
       "id": "build_page",
@@ -37,7 +37,7 @@
       "file_type": "code",
       "norm_label": "page()",
       "source_file": "build.py",
-      "source_location": "L46"
+      "source_location": "L91"
     },
     {
       "id": "build_validate",
@@ -49,7 +49,7 @@
       "file_type": "code",
       "norm_label": "validate()",
       "source_file": "build.py",
-      "source_location": "L28"
+      "source_location": "L73"
     },
     {
       "id": "build_write",
@@ -61,7 +61,7 @@
       "file_type": "code",
       "norm_label": "write()",
       "source_file": "build.py",
-      "source_location": "L67"
+      "source_location": "L113"
     },
     {
       "id": "fetch_change_phrase",
@@ -407,6 +407,42 @@
       "norm_label": "implementar.md",
       "source_file": ".cursor/agents/implementar.md",
       "source_location": "L1"
+    },
+    {
+      "id": "design",
+      "label": "DESIGN.md",
+      "_origin": "ast",
+      "community": 13,
+      "community_name": "LLM Radar",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "design.md",
+      "source_file": "DESIGN.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "design_llm_radar",
+      "label": "LLM Radar",
+      "_origin": "ast",
+      "community": 13,
+      "community_name": "LLM Radar",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "llm radar",
+      "source_file": "DESIGN.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "design_stitch",
+      "label": "Stitch",
+      "_origin": "ast",
+      "community": 13,
+      "community_name": "LLM Radar",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "stitch",
+      "source_file": "DESIGN.md",
+      "source_location": "L7"
     },
     {
       "id": "project",
@@ -960,6 +996,7 @@
     {
       "id": "urllib_request",
       "label": "urllib_request",
+      "_origin": "semantic",
       "community": 10,
       "community_name": "fetch.py",
       "external": true,
@@ -972,6 +1009,30 @@
   "links": [
     {
       "source": "build_build",
+      "target": "build_validate",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L122",
+      "weight": 1.0
+    },
+    {
+      "source": "build_build",
+      "target": "build_esc",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "build.py",
+      "source_location": "L136",
+      "weight": 1.0
+    },
+    {
+      "source": "build_build",
       "target": "build_page",
       "relation": "calls",
       "_origin": "ast",
@@ -979,7 +1040,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "build.py",
-      "source_location": "L106",
+      "source_location": "L153",
       "weight": 1.0
     },
     {
@@ -991,31 +1052,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "build.py",
-      "source_location": "L106",
-      "weight": 1.0
-    },
-    {
-      "source": "build_build",
-      "target": "build_validate",
-      "relation": "calls",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "context": "call",
-      "source_file": "build.py",
-      "source_location": "L76",
-      "weight": 1.0
-    },
-    {
-      "source": "build_build",
-      "target": "build_esc",
-      "relation": "calls",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "context": "call",
-      "source_file": "build.py",
-      "source_location": "L90",
+      "source_location": "L153",
       "weight": 1.0
     },
     {
@@ -1027,7 +1064,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "build.py",
-      "source_location": "L50",
+      "source_location": "L95",
       "weight": 1.0
     },
     {
@@ -1449,46 +1486,13 @@
     },
     {
       "source": "build",
-      "target": "build_esc",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "build.py",
-      "source_location": "L24",
-      "weight": 1.0
-    },
-    {
-      "source": "build",
-      "target": "build_validate",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "build.py",
-      "source_location": "L28",
-      "weight": 1.0
-    },
-    {
-      "source": "build",
-      "target": "build_page",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "build.py",
-      "source_location": "L46",
-      "weight": 1.0
-    },
-    {
-      "source": "build",
       "target": "build_write",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "build.py",
-      "source_location": "L67",
+      "source_location": "L113",
       "weight": 1.0
     },
     {
@@ -1499,7 +1503,40 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "build.py",
+      "source_location": "L119",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_esc",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L69",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_validate",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
       "source_location": "L73",
+      "weight": 1.0
+    },
+    {
+      "source": "build",
+      "target": "build_page",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "build.py",
+      "source_location": "L91",
       "weight": 1.0
     },
     {
@@ -1753,6 +1790,28 @@
       "confidence_score": 1.0,
       "source_file": ".cursor/skills/web-design/SKILL.md",
       "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "design",
+      "target": "design_llm_radar",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DESIGN.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "design_llm_radar",
+      "target": "design_stitch",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DESIGN.md",
+      "source_location": "L7",
       "weight": 1.0
     },
     {
@@ -2021,5 +2080,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "86b837d716dbc3a20b74941a7ff05c5eaee951a6"
+  "built_at_commit": "524d1a6c5d4f6b60e76f003e87ff3fa4a557b742"
 }
