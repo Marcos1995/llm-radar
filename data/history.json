@@ -459,6 +459,11 @@
    "completion": "0.00000015708",
    "date": "2026-09-30",
    "prompt": "0.00000007854"
+  },
+  {
+   "completion": "0.000000084",
+   "date": "2026-10-01",
+   "prompt": "0.000000042"
   }
  ],
  "deepseek/deepseek-v4-flash-0731": [
@@ -466,6 +471,11 @@
    "completion": "0.00000128",
    "date": "2026-09-30",
    "prompt": "0.00000001"
+  },
+  {
+   "completion": "0.00000128",
+   "date": "2026-10-01",
+   "prompt": "0.0000000108"
   }
  ],
  "deepseek/deepseek-v4-flash-vision-exp": [
@@ -480,6 +490,11 @@
    "completion": "0.000001566",
    "date": "2026-09-30",
    "prompt": "0.000000783"
+  },
+  {
+   "completion": "0.0000004176",
+   "date": "2026-10-01",
+   "prompt": "0.0000002088"
   }
  ],
  "deepseek/deepseek-v4-pro-0813": [
@@ -494,6 +509,11 @@
    "completion": "0.000000396",
    "date": "2026-09-30",
    "prompt": "0.0000000198"
+  },
+  {
+   "completion": "0.0000005",
+   "date": "2026-10-01",
+   "prompt": "0.00000003"
   }
  ],
  "deepseek/deepseek-v4.1-flash:batch": [
@@ -772,6 +792,11 @@
    "completion": "0.000000255",
    "date": "2026-09-30",
    "prompt": "0.0000000765"
+  },
+  {
+   "completion": "0.0000003",
+   "date": "2026-10-01",
+   "prompt": "0.00000009"
   }
  ],
  "google/gemma-4-26b-a4b-it:free": [
@@ -1038,6 +1063,11 @@
    "completion": "0.0000022",
    "date": "2026-09-30",
    "prompt": "0.0000004"
+  },
+  {
+   "completion": "0.0000022",
+   "date": "2026-10-01",
+   "prompt": "0.00000055"
   }
  ],
  "minimax/minimax-m2": [
@@ -1290,6 +1320,11 @@
    "completion": "0.00000341",
    "date": "2026-09-30",
    "prompt": "0.00000065"
+  },
+  {
+   "completion": "0.000001828",
+   "date": "2026-10-01",
+   "prompt": "0.00000043415"
   }
  ],
  "moonshotai/kimi-k2.7-code": [
@@ -1304,6 +1339,11 @@
    "completion": "0.000015",
    "date": "2026-09-30",
    "prompt": "0.000003"
+  },
+  {
+   "completion": "0.00001",
+   "date": "2026-10-01",
+   "prompt": "0.000000713"
   }
  ],
  "moonshotai/kimi-k3:batch": [
@@ -1423,6 +1463,11 @@
    "completion": "0.00000016",
    "date": "2026-09-30",
    "prompt": "0.00000006"
+  },
+  {
+   "completion": "0.00000017",
+   "date": "2026-10-01",
+   "prompt": "0.0000000595"
   }
  ],
  "nvidia/nemotron-3.5-lightning:free": [
@@ -2795,6 +2840,11 @@
    "completion": "0.00000033",
    "date": "2026-09-30",
    "prompt": "0.0000000825"
+  },
+  {
+   "completion": "0.000000528",
+   "date": "2026-10-01",
+   "prompt": "0.000000132"
   }
  ],
  "tencent/hy3-preview": [
@@ -2809,6 +2859,11 @@
    "completion": "0.0000022509",
    "date": "2026-09-30",
    "prompt": "0.0000007506"
+  },
+  {
+   "completion": "0.000002501",
+   "date": "2026-10-01",
+   "prompt": "0.000000834"
   }
  ],
  "thedrummer/cydonia-24b-v4.1": [
@@ -3080,6 +3135,11 @@
    "completion": "0.00000399",
    "date": "2026-09-30",
    "prompt": "0.000000624"
+  },
+  {
+   "completion": "0.0000044",
+   "date": "2026-10-01",
+   "prompt": "0.0000011"
   }
  ],
  "z-ai/glm-5.3": [
@@ -3087,6 +3147,11 @@
    "completion": "0.0000044",
    "date": "2026-09-30",
    "prompt": "0.0000014"
+  },
+  {
+   "completion": "0.00000339",
+   "date": "2026-10-01",
+   "prompt": "0.0000002219"
   }
  ],
  "z-ai/glm-5.3-flash": [
@@ -3164,6 +3229,11 @@
    "completion": "0.000000396",
    "date": "2026-09-30",
    "prompt": "0.0000000198"
+  },
+  {
+   "completion": "0.0000006",
+   "date": "2026-10-01",
+   "prompt": "0.0000000243"
   }
  ],
  "~deepseek/deepseek-pro-latest": [
@@ -3171,6 +3241,11 @@
    "completion": "0.0000035",
    "date": "2026-09-30",
    "prompt": "0.000000123"
+  },
+  {
+   "completion": "0.00000061776",
+   "date": "2026-10-01",
+   "prompt": "0.00000020592"
   }
  ],
  "~deepseek/deepseek-v4-flash-latest": [
@@ -3178,6 +3253,11 @@
    "completion": "0.00000013068",
    "date": "2026-09-30",
    "prompt": "0.0000000099"
+  },
+  {
+   "completion": "0.00000128",
+   "date": "2026-10-01",
+   "prompt": "0.0000000108"
   }
  ],
  "~google/gemini-flash-latest": [
@@ -3204,6 +3284,11 @@
    "completion": "0.000011",
    "date": "2026-09-30",
    "prompt": "0.00000019"
+  },
+  {
+   "completion": "0.00001",
+   "date": "2026-10-01",
+   "prompt": "0.000000713"
   }
  ],
  "~openai/gpt-astra-latest": [
@@ -3253,6 +3338,11 @@
    "completion": "0.0000002475",
    "date": "2026-09-30",
    "prompt": "0.00000002"
+  },
+  {
+   "completion": "0.0000003",
+   "date": "2026-10-01",
+   "prompt": "0.00000002"
   }
  ],
  "~z-ai/glm-latest": [
@@ -3260,6 +3350,11 @@
    "completion": "0.000004",
    "date": "2026-09-30",
    "prompt": "0.00000013"
+  },
+  {
+   "completion": "0.000002694",
+   "date": "2026-10-01",
+   "prompt": "0.00000006"
   }
  ]
 }
