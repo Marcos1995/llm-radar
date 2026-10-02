@@ -286,6 +286,13 @@
    "prompt": "0.000001"
   }
  ],
+ "apodex/apodex-1.1-mini:free": [
+  {
+   "completion": "0",
+   "date": "2026-10-02",
+   "prompt": "0"
+  }
+ ],
  "arcee-ai/trinity-large-thinking": [
   {
    "completion": "0.0000008",
@@ -476,6 +483,11 @@
    "completion": "0.00000128",
    "date": "2026-10-01",
    "prompt": "0.0000000108"
+  },
+  {
+   "completion": "0.00000128",
+   "date": "2026-10-02",
+   "prompt": "0.0000000051"
   }
  ],
  "deepseek/deepseek-v4-flash-vision-exp": [
@@ -514,6 +526,11 @@
    "completion": "0.0000005",
    "date": "2026-10-01",
    "prompt": "0.00000003"
+  },
+  {
+   "completion": "0.0000012",
+   "date": "2026-10-02",
+   "prompt": "0.0000003"
   }
  ],
  "deepseek/deepseek-v4.1-flash:batch": [
@@ -1344,6 +1361,11 @@
    "completion": "0.00001",
    "date": "2026-10-01",
    "prompt": "0.000000713"
+  },
+  {
+   "completion": "0.0000135",
+   "date": "2026-10-02",
+   "prompt": "0.0000027"
   }
  ],
  "moonshotai/kimi-k3:batch": [
@@ -1435,6 +1457,11 @@
    "completion": "0.0000024",
    "date": "2026-09-30",
    "prompt": "0.0000006"
+  },
+  {
+   "completion": "0.0000022",
+   "date": "2026-10-02",
+   "prompt": "0.0000005"
   }
  ],
  "nvidia/nemotron-3-ultra-550b-a55b:free": [
@@ -1468,6 +1495,11 @@
    "completion": "0.00000017",
    "date": "2026-10-01",
    "prompt": "0.0000000595"
+  },
+  {
+   "completion": "0.00000016",
+   "date": "2026-10-02",
+   "prompt": "0.00000006"
   }
  ],
  "nvidia/nemotron-3.5-lightning:free": [
@@ -2567,6 +2599,11 @@
    "completion": "0.0000013",
    "date": "2026-09-30",
    "prompt": "0.0000001625"
+  },
+  {
+   "completion": "0.000001",
+   "date": "2026-10-02",
+   "prompt": "0.00000015"
   }
  ],
  "qwen/qwen3.5-397b-a17b": [
@@ -2892,6 +2929,11 @@
    "completion": "0.00000405",
    "date": "2026-09-30",
    "prompt": "0.000001"
+  },
+  {
+   "completion": "0.00000405",
+   "date": "2026-10-02",
+   "prompt": "0.00000095"
   }
  ],
  "thinkingmachines/inkling-small": [
@@ -2927,6 +2969,13 @@
    "completion": "0.0000075",
    "date": "2026-09-30",
    "prompt": "0.0000025"
+  }
+ ],
+ "unbiased/pareto-26.10-preview": [
+  {
+   "completion": "0.0000032",
+   "date": "2026-10-02",
+   "prompt": "0.0000008"
   }
  ],
  "undi95/remm-slerp-l2-13b": [
@@ -3140,6 +3189,11 @@
    "completion": "0.0000044",
    "date": "2026-10-01",
    "prompt": "0.0000011"
+  },
+  {
+   "completion": "0.00000399",
+   "date": "2026-10-02",
+   "prompt": "0.00000041"
   }
  ],
  "z-ai/glm-5.3": [
@@ -3152,6 +3206,11 @@
    "completion": "0.00000339",
    "date": "2026-10-01",
    "prompt": "0.0000002219"
+  },
+  {
+   "completion": "0.0000044",
+   "date": "2026-10-02",
+   "prompt": "0.0000014"
   }
  ],
  "z-ai/glm-5.3-flash": [
@@ -3234,6 +3293,11 @@
    "completion": "0.0000006",
    "date": "2026-10-01",
    "prompt": "0.0000000243"
+  },
+  {
+   "completion": "0.0000012",
+   "date": "2026-10-02",
+   "prompt": "0.000000003"
   }
  ],
  "~deepseek/deepseek-pro-latest": [
@@ -3246,6 +3310,11 @@
    "completion": "0.00000061776",
    "date": "2026-10-01",
    "prompt": "0.00000020592"
+  },
+  {
+   "completion": "0.000000396",
+   "date": "2026-10-02",
+   "prompt": "0.000000132"
   }
  ],
  "~deepseek/deepseek-v4-flash-latest": [
@@ -3258,6 +3327,11 @@
    "completion": "0.00000128",
    "date": "2026-10-01",
    "prompt": "0.0000000108"
+  },
+  {
+   "completion": "0.00000128",
+   "date": "2026-10-02",
+   "prompt": "0.0000000051"
   }
  ],
  "~google/gemini-flash-latest": [
@@ -3289,6 +3363,11 @@
    "completion": "0.00001",
    "date": "2026-10-01",
    "prompt": "0.000000713"
+  },
+  {
+   "completion": "0.000013",
+   "date": "2026-10-02",
+   "prompt": "0.00000139"
   }
  ],
  "~openai/gpt-astra-latest": [
@@ -3343,6 +3422,11 @@
    "completion": "0.0000003",
    "date": "2026-10-01",
    "prompt": "0.00000002"
+  },
+  {
+   "completion": "0.0000009",
+   "date": "2026-10-02",
+   "prompt": "0.00000002625"
   }
  ],
  "~z-ai/glm-latest": [
@@ -3355,6 +3439,11 @@
    "completion": "0.000002694",
    "date": "2026-10-01",
    "prompt": "0.00000006"
+  },
+  {
+   "completion": "0.000004",
+   "date": "2026-10-02",
+   "prompt": "0.00000012"
   }
  ]
 }
