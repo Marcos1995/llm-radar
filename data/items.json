@@ -1712,7 +1712,7 @@
  {
   "slug": "apodex-apodex-1-1-mini-free",
   "title": "Apodex: Apodex 1.1 Mini (free)",
-  "summary": "Apodex: Apodex 1.1 Mini (free) (apodex/apodex-1.1-mini:free): el precio de prompt es 0 USD por 1M tokens y el precio de completion es 0 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-10-01; variacion frente al snapshot anterior: sin snapshot anterior; pesos: no publicados.",
+  "summary": "Apodex: Apodex 1.1 Mini (free) (apodex/apodex-1.1-mini:free): el precio de prompt es 0 USD por 1M tokens y el precio de completion es 0 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-10-01; variacion frente al snapshot anterior: sin cambio; pesos: no publicados.",
   "facts": [
    [
     "Precio prompt / 1M",
@@ -1736,7 +1736,7 @@
    ],
    [
     "Variacion de precio",
-    "sin snapshot anterior"
+    "sin cambio"
    ],
    [
     "Pesos",
@@ -1744,7 +1744,7 @@
    ]
   ],
   "group": "apodex",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/apodex/apodex-1.1-mini:free"
  },
  {
@@ -2472,15 +2472,15 @@
  {
   "slug": "deepseek-deepseek-flash-latest",
   "title": "DeepSeek: DeepSeek Flash Latest",
-  "summary": "DeepSeek: DeepSeek Flash Latest (~deepseek/deepseek-flash-latest): el precio de prompt es 0.003 USD por 1M tokens y el precio de completion es 1.2 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image; salida text; fecha de creacion 2026-09-14; variacion frente al snapshot anterior: prompt -0.0213 USD/1M; completion +0.6 USD/1M; pesos: no publicados.",
+  "summary": "DeepSeek: DeepSeek Flash Latest (~deepseek/deepseek-flash-latest): el precio de prompt es 0.02 USD por 1M tokens y el precio de completion es 0.6 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image; salida text; fecha de creacion 2026-09-14; variacion frente al snapshot anterior: prompt +0.017 USD/1M; completion -0.6 USD/1M; pesos: no publicados.",
   "facts": [
    [
     "Precio prompt / 1M",
-    "0.003 USD"
+    "0.02 USD"
    ],
    [
     "Precio completion / 1M",
-    "1.2 USD"
+    "0.6 USD"
    ],
    [
     "Contexto",
@@ -2496,7 +2496,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt -0.0213 USD/1M; completion +0.6 USD/1M"
+    "prompt +0.017 USD/1M; completion -0.6 USD/1M"
    ],
    [
     "Pesos",
@@ -2504,21 +2504,21 @@
    ]
   ],
   "group": "deepseek",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/~deepseek/deepseek-flash-latest"
  },
  {
   "slug": "deepseek-deepseek-pro-latest",
   "title": "DeepSeek: DeepSeek Pro Latest",
-  "summary": "DeepSeek: DeepSeek Pro Latest (~deepseek/deepseek-pro-latest): el precio de prompt es 0.132 USD por 1M tokens y el precio de completion es 0.396 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-09-14; variacion frente al snapshot anterior: prompt -0.07392 USD/1M; completion -0.22176 USD/1M; pesos: no publicados.",
+  "summary": "DeepSeek: DeepSeek Pro Latest (~deepseek/deepseek-pro-latest): el precio de prompt es 0.12 USD por 1M tokens y el precio de completion es 4.2 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-09-14; variacion frente al snapshot anterior: prompt -0.012 USD/1M; completion +3.804 USD/1M; pesos: no publicados.",
   "facts": [
    [
     "Precio prompt / 1M",
-    "0.132 USD"
+    "0.12 USD"
    ],
    [
     "Precio completion / 1M",
-    "0.396 USD"
+    "4.2 USD"
    ],
    [
     "Contexto",
@@ -2534,7 +2534,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt -0.07392 USD/1M; completion -0.22176 USD/1M"
+    "prompt -0.012 USD/1M; completion +3.804 USD/1M"
    ],
    [
     "Pesos",
@@ -2542,7 +2542,7 @@
    ]
   ],
   "group": "deepseek",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/~deepseek/deepseek-pro-latest"
  },
  {
@@ -2624,11 +2624,11 @@
  {
   "slug": "deepseek-deepseek-v3-1-terminus",
   "title": "DeepSeek: DeepSeek V3.1 Terminus",
-  "summary": "DeepSeek: DeepSeek V3.1 Terminus (deepseek/deepseek-v3.1-terminus): el precio de prompt es 0.3 USD por 1M tokens y el precio de completion es 1 USD por 1M tokens, con contexto de 163840 tokens. Modalidad entrada text; salida text; fecha de creacion 2025-09-22; variacion frente al snapshot anterior: sin cambio; pesos: deepseek-ai/DeepSeek-V3.1-Terminus.",
+  "summary": "DeepSeek: DeepSeek V3.1 Terminus (deepseek/deepseek-v3.1-terminus): el precio de prompt es 0.27 USD por 1M tokens y el precio de completion es 1 USD por 1M tokens, con contexto de 163840 tokens. Modalidad entrada text; salida text; fecha de creacion 2025-09-22; variacion frente al snapshot anterior: prompt -0.03 USD/1M; completion sin cambio; pesos: deepseek-ai/DeepSeek-V3.1-Terminus.",
   "facts": [
    [
     "Precio prompt / 1M",
-    "0.3 USD"
+    "0.27 USD"
    ],
    [
     "Precio completion / 1M",
@@ -2648,7 +2648,7 @@
    ],
    [
     "Variacion de precio",
-    "sin cambio"
+    "prompt -0.03 USD/1M; completion sin cambio"
    ],
    [
     "Pesos",
@@ -2656,7 +2656,7 @@
    ]
   ],
   "group": "deepseek",
-  "updated": "2026-09-30",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/deepseek/deepseek-v3.1-terminus"
  },
  {
@@ -2738,7 +2738,7 @@
  {
   "slug": "deepseek-deepseek-v4-1-flash",
   "title": "DeepSeek: DeepSeek V4.1 Flash",
-  "summary": "DeepSeek: DeepSeek V4.1 Flash (deepseek/deepseek-v4.1-flash): el precio de prompt es 0.3 USD por 1M tokens y el precio de completion es 1.2 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image; salida text; fecha de creacion 2026-09-10; variacion frente al snapshot anterior: prompt +0.27 USD/1M; completion +0.7 USD/1M; pesos: deepseek-ai/DeepSeek-V4.1-Flash.",
+  "summary": "DeepSeek: DeepSeek V4.1 Flash (deepseek/deepseek-v4.1-flash): el precio de prompt es 0.3 USD por 1M tokens y el precio de completion es 1.2 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image; salida text; fecha de creacion 2026-09-10; variacion frente al snapshot anterior: sin cambio; pesos: deepseek-ai/DeepSeek-V4.1-Flash.",
   "facts": [
    [
     "Precio prompt / 1M",
@@ -2762,7 +2762,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt +0.27 USD/1M; completion +0.7 USD/1M"
+    "sin cambio"
    ],
    [
     "Pesos",
@@ -2770,7 +2770,7 @@
    ]
   ],
   "group": "deepseek",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/deepseek/deepseek-v4.1-flash"
  },
  {
@@ -2814,15 +2814,15 @@
  {
   "slug": "deepseek-deepseek-v4-flash",
   "title": "DeepSeek: DeepSeek V4 Flash 0423",
-  "summary": "DeepSeek: DeepSeek V4 Flash 0423 (deepseek/deepseek-v4-flash): el precio de prompt es 0.042 USD por 1M tokens y el precio de completion es 0.084 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-04-24; variacion frente al snapshot anterior: sin cambio; pesos: deepseek-ai/DeepSeek-V4-Flash.",
+  "summary": "DeepSeek: DeepSeek V4 Flash 0423 (deepseek/deepseek-v4-flash): el precio de prompt es 0.028 USD por 1M tokens y el precio de completion es 0.056 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-04-24; variacion frente al snapshot anterior: prompt -0.014 USD/1M; completion -0.028 USD/1M; pesos: deepseek-ai/DeepSeek-V4-Flash.",
   "facts": [
    [
     "Precio prompt / 1M",
-    "0.042 USD"
+    "0.028 USD"
    ],
    [
     "Precio completion / 1M",
-    "0.084 USD"
+    "0.056 USD"
    ],
    [
     "Contexto",
@@ -2838,7 +2838,7 @@
    ],
    [
     "Variacion de precio",
-    "sin cambio"
+    "prompt -0.014 USD/1M; completion -0.028 USD/1M"
    ],
    [
     "Pesos",
@@ -2846,17 +2846,17 @@
    ]
   ],
   "group": "deepseek",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/deepseek/deepseek-v4-flash"
  },
  {
   "slug": "deepseek-deepseek-v4-flash-0731",
   "title": "DeepSeek: DeepSeek V4 Flash 0731",
-  "summary": "DeepSeek: DeepSeek V4 Flash 0731 (deepseek/deepseek-v4-flash-0731): el precio de prompt es 0.0051 USD por 1M tokens y el precio de completion es 1.28 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-07-31; variacion frente al snapshot anterior: prompt -0.0057 USD/1M; completion sin cambio; pesos: deepseek-ai/DeepSeek-V4-Flash-0731.",
+  "summary": "DeepSeek: DeepSeek V4 Flash 0731 (deepseek/deepseek-v4-flash-0731): el precio de prompt es 0.0188 USD por 1M tokens y el precio de completion es 1.28 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-07-31; variacion frente al snapshot anterior: prompt +0.0137 USD/1M; completion sin cambio; pesos: deepseek-ai/DeepSeek-V4-Flash-0731.",
   "facts": [
    [
     "Precio prompt / 1M",
-    "0.0051 USD"
+    "0.0188 USD"
    ],
    [
     "Precio completion / 1M",
@@ -2876,7 +2876,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt -0.0057 USD/1M; completion sin cambio"
+    "prompt +0.0137 USD/1M; completion sin cambio"
    ],
    [
     "Pesos",
@@ -2884,17 +2884,17 @@
    ]
   ],
   "group": "deepseek",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731"
  },
  {
   "slug": "deepseek-deepseek-v4-flash-latest",
   "title": "DeepSeek: DeepSeek V4 Flash Latest",
-  "summary": "DeepSeek: DeepSeek V4 Flash Latest (~deepseek/deepseek-v4-flash-latest): el precio de prompt es 0.0051 USD por 1M tokens y el precio de completion es 1.28 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-08-01; variacion frente al snapshot anterior: prompt -0.0057 USD/1M; completion sin cambio; pesos: no publicados.",
+  "summary": "DeepSeek: DeepSeek V4 Flash Latest (~deepseek/deepseek-v4-flash-latest): el precio de prompt es 0.0188 USD por 1M tokens y el precio de completion es 1.28 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-08-01; variacion frente al snapshot anterior: prompt +0.0137 USD/1M; completion sin cambio; pesos: no publicados.",
   "facts": [
    [
     "Precio prompt / 1M",
-    "0.0051 USD"
+    "0.0188 USD"
    ],
    [
     "Precio completion / 1M",
@@ -2914,7 +2914,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt -0.0057 USD/1M; completion sin cambio"
+    "prompt +0.0137 USD/1M; completion sin cambio"
    ],
    [
     "Pesos",
@@ -2922,7 +2922,7 @@
    ]
   ],
   "group": "deepseek",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest"
  },
  {
@@ -4524,15 +4524,15 @@
  {
   "slug": "google-gemma-4-26b-a4b-it",
   "title": "Google: Gemma 4 26B A4B",
-  "summary": "Google: Gemma 4 26B A4B (google/gemma-4-26b-a4b-it): el precio de prompt es 0.09 USD por 1M tokens y el precio de completion es 0.3 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada image, text, video; salida text; fecha de creacion 2026-04-03; variacion frente al snapshot anterior: sin cambio; pesos: google/gemma-4-26B-A4B-it.",
+  "summary": "Google: Gemma 4 26B A4B (google/gemma-4-26b-a4b-it): el precio de prompt es 0.0675 USD por 1M tokens y el precio de completion es 0.225 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada image, text, video; salida text; fecha de creacion 2026-04-03; variacion frente al snapshot anterior: prompt -0.0225 USD/1M; completion -0.075 USD/1M; pesos: google/gemma-4-26B-A4B-it.",
   "facts": [
    [
     "Precio prompt / 1M",
-    "0.09 USD"
+    "0.0675 USD"
    ],
    [
     "Precio completion / 1M",
-    "0.3 USD"
+    "0.225 USD"
    ],
    [
     "Contexto",
@@ -4548,7 +4548,7 @@
    ],
    [
     "Variacion de precio",
-    "sin cambio"
+    "prompt -0.0225 USD/1M; completion -0.075 USD/1M"
    ],
    [
     "Pesos",
@@ -4556,7 +4556,7 @@
    ]
   ],
   "group": "google",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/google/gemma-4-26b-a4b-it"
  },
  {
@@ -4980,15 +4980,15 @@
  {
   "slug": "inclusionai-ling-3-0-flash-fin",
   "title": "inclusionAI: Ling 3.0 Flash Fin",
-  "summary": "inclusionAI: Ling 3.0 Flash Fin (inclusionai/ling-3.0-flash-fin): el precio de prompt es 0.06 USD por 1M tokens y el precio de completion es 0.18 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-08-27; variacion frente al snapshot anterior: sin cambio; pesos: no publicados.",
+  "summary": "inclusionAI: Ling 3.0 Flash Fin (inclusionai/ling-3.0-flash-fin): el precio de prompt es 0.042 USD por 1M tokens y el precio de completion es 0.1232 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-08-27; variacion frente al snapshot anterior: prompt -0.018 USD/1M; completion -0.0568 USD/1M; pesos: no publicados.",
   "facts": [
    [
     "Precio prompt / 1M",
-    "0.06 USD"
+    "0.042 USD"
    ],
    [
     "Precio completion / 1M",
-    "0.18 USD"
+    "0.1232 USD"
    ],
    [
     "Contexto",
@@ -5004,7 +5004,7 @@
    ],
    [
     "Variacion de precio",
-    "sin cambio"
+    "prompt -0.018 USD/1M; completion -0.0568 USD/1M"
    ],
    [
     "Pesos",
@@ -5012,7 +5012,7 @@
    ]
   ],
   "group": "inclusionai",
-  "updated": "2026-09-30",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin"
  },
  {
@@ -5090,6 +5090,44 @@
   "group": "inclusionai",
   "updated": "2026-09-30",
   "source": "https://openrouter.ai/inclusionai/ling-3.0-flash-vl"
+ },
+ {
+  "slug": "inclusionai-ling-3-1-flash",
+  "title": "inclusionAI: Ling 3.1 Flash",
+  "summary": "inclusionAI: Ling 3.1 Flash (inclusionai/ling-3.1-flash): el precio de prompt es 0 USD por 1M tokens y el precio de completion es 0 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-10-02; variacion frente al snapshot anterior: sin snapshot anterior; pesos: no publicados.",
+  "facts": [
+   [
+    "Precio prompt / 1M",
+    "0 USD"
+   ],
+   [
+    "Precio completion / 1M",
+    "0 USD"
+   ],
+   [
+    "Contexto",
+    "262144 tokens"
+   ],
+   [
+    "Modalidades",
+    "entrada text; salida text"
+   ],
+   [
+    "Fecha de creacion",
+    "2026-10-02"
+   ],
+   [
+    "Variacion de precio",
+    "sin snapshot anterior"
+   ],
+   [
+    "Pesos",
+    "no publicados"
+   ]
+  ],
+  "group": "inclusionai",
+  "updated": "2026-10-03",
+  "source": "https://openrouter.ai/inclusionai/ling-3.1-flash"
  },
  {
   "slug": "inference-net-schematron-v2-small",
@@ -7298,15 +7336,15 @@
  {
   "slug": "moonshotai-kimi-k2-6",
   "title": "MoonshotAI: Kimi K2.6",
-  "summary": "MoonshotAI: Kimi K2.6 (moonshotai/kimi-k2.6): el precio de prompt es 0.43415 USD por 1M tokens y el precio de completion es 1.828 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada text, image; salida text; fecha de creacion 2026-04-20; variacion frente al snapshot anterior: sin cambio; pesos: moonshotai/Kimi-K2.6.",
+  "summary": "MoonshotAI: Kimi K2.6 (moonshotai/kimi-k2.6): el precio de prompt es 0.95 USD por 1M tokens y el precio de completion es 4 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada text, image; salida text; fecha de creacion 2026-04-20; variacion frente al snapshot anterior: prompt +0.51585 USD/1M; completion +2.172 USD/1M; pesos: moonshotai/Kimi-K2.6.",
   "facts": [
    [
     "Precio prompt / 1M",
-    "0.43415 USD"
+    "0.95 USD"
    ],
    [
     "Precio completion / 1M",
-    "1.828 USD"
+    "4 USD"
    ],
    [
     "Contexto",
@@ -7322,7 +7360,7 @@
    ],
    [
     "Variacion de precio",
-    "sin cambio"
+    "prompt +0.51585 USD/1M; completion +2.172 USD/1M"
    ],
    [
     "Pesos",
@@ -7330,7 +7368,7 @@
    ]
   ],
   "group": "moonshotai",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/moonshotai/kimi-k2.6"
  },
  {
@@ -7412,7 +7450,7 @@
  {
   "slug": "moonshotai-kimi-k3",
   "title": "MoonshotAI: Kimi K3",
-  "summary": "MoonshotAI: Kimi K3 (moonshotai/kimi-k3): el precio de prompt es 2.7 USD por 1M tokens y el precio de completion es 13.5 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image, video; salida text; fecha de creacion 2026-07-16; variacion frente al snapshot anterior: prompt +1.987 USD/1M; completion +3.5 USD/1M; pesos: moonshotai/Kimi-K3.",
+  "summary": "MoonshotAI: Kimi K3 (moonshotai/kimi-k3): el precio de prompt es 2.7 USD por 1M tokens y el precio de completion es 13.5 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image, video; salida text; fecha de creacion 2026-07-16; variacion frente al snapshot anterior: sin cambio; pesos: moonshotai/Kimi-K3.",
   "facts": [
    [
     "Precio prompt / 1M",
@@ -7436,7 +7474,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt +1.987 USD/1M; completion +3.5 USD/1M"
+    "sin cambio"
    ],
    [
     "Pesos",
@@ -7444,7 +7482,7 @@
    ]
   ],
   "group": "moonshotai",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/moonshotai/kimi-k3"
  },
  {
@@ -7488,11 +7526,11 @@
  {
   "slug": "moonshotai-kimi-latest",
   "title": "MoonshotAI: Kimi Latest",
-  "summary": "MoonshotAI: Kimi Latest (~moonshotai/kimi-latest): el precio de prompt es 1.39 USD por 1M tokens y el precio de completion es 13 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image, video; salida text; fecha de creacion 2026-04-27; variacion frente al snapshot anterior: prompt +0.677 USD/1M; completion +3 USD/1M; pesos: no publicados.",
+  "summary": "MoonshotAI: Kimi Latest (~moonshotai/kimi-latest): el precio de prompt es 0.9895 USD por 1M tokens y el precio de completion es 13 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image, video; salida text; fecha de creacion 2026-04-27; variacion frente al snapshot anterior: prompt -0.4005 USD/1M; completion sin cambio; pesos: no publicados.",
   "facts": [
    [
     "Precio prompt / 1M",
-    "1.39 USD"
+    "0.9895 USD"
    ],
    [
     "Precio completion / 1M",
@@ -7512,7 +7550,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt +0.677 USD/1M; completion +3 USD/1M"
+    "prompt -0.4005 USD/1M; completion sin cambio"
    ],
    [
     "Pesos",
@@ -7520,7 +7558,7 @@
    ]
   ],
   "group": "moonshotai",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/~moonshotai/kimi-latest"
  },
  {
@@ -7868,15 +7906,15 @@
  {
   "slug": "nvidia-nemotron-3-5-lightning",
   "title": "NVIDIA: Nemotron 3.5 Lightning",
-  "summary": "NVIDIA: Nemotron 3.5 Lightning (nvidia/nemotron-3.5-lightning): el precio de prompt es 0.06 USD por 1M tokens y el precio de completion es 0.16 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-08-11; variacion frente al snapshot anterior: prompt +0.0005 USD/1M; completion -0.01 USD/1M; pesos: nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16.",
+  "summary": "NVIDIA: Nemotron 3.5 Lightning (nvidia/nemotron-3.5-lightning): el precio de prompt es 0.0595 USD por 1M tokens y el precio de completion es 0.17 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-08-11; variacion frente al snapshot anterior: prompt -0.0005 USD/1M; completion +0.01 USD/1M; pesos: nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16.",
   "facts": [
    [
     "Precio prompt / 1M",
-    "0.06 USD"
+    "0.0595 USD"
    ],
    [
     "Precio completion / 1M",
-    "0.16 USD"
+    "0.17 USD"
    ],
    [
     "Contexto",
@@ -7892,7 +7930,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt +0.0005 USD/1M; completion -0.01 USD/1M"
+    "prompt -0.0005 USD/1M; completion +0.01 USD/1M"
    ],
    [
     "Pesos",
@@ -7900,7 +7938,7 @@
    ]
   ],
   "group": "nvidia",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/nvidia/nemotron-3.5-lightning"
  },
  {
@@ -8096,7 +8134,7 @@
  {
   "slug": "nvidia-nemotron-3-ultra-550b-a55b",
   "title": "NVIDIA: Nemotron 3 Ultra",
-  "summary": "NVIDIA: Nemotron 3 Ultra (nvidia/nemotron-3-ultra-550b-a55b): el precio de prompt es 0.5 USD por 1M tokens y el precio de completion es 2.2 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-06-04; variacion frente al snapshot anterior: prompt -0.1 USD/1M; completion -0.2 USD/1M; pesos: nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16.",
+  "summary": "NVIDIA: Nemotron 3 Ultra (nvidia/nemotron-3-ultra-550b-a55b): el precio de prompt es 0.5 USD por 1M tokens y el precio de completion es 2.2 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-06-04; variacion frente al snapshot anterior: sin cambio; pesos: nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16.",
   "facts": [
    [
     "Precio prompt / 1M",
@@ -8120,7 +8158,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt -0.1 USD/1M; completion -0.2 USD/1M"
+    "sin cambio"
    ],
    [
     "Pesos",
@@ -8128,7 +8166,7 @@
    ]
   ],
   "group": "nvidia",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b"
  },
  {
@@ -8168,6 +8206,44 @@
   "group": "nvidia",
   "updated": "2026-09-30",
   "source": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free"
+ },
+ {
+  "slug": "nvidia-switchyard",
+  "title": "NVIDIA: Switchyard",
+  "summary": "NVIDIA: Switchyard (nvidia/switchyard): el precio de prompt es variable (-1) y el precio de completion es variable (-1), con contexto de 1000000 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-09-21; variacion frente al snapshot anterior: sin snapshot anterior; pesos: no publicados.",
+  "facts": [
+   [
+    "Precio prompt / 1M",
+    "variable (-1)"
+   ],
+   [
+    "Precio completion / 1M",
+    "variable (-1)"
+   ],
+   [
+    "Contexto",
+    "1000000 tokens"
+   ],
+   [
+    "Modalidades",
+    "entrada text; salida text"
+   ],
+   [
+    "Fecha de creacion",
+    "2026-09-21"
+   ],
+   [
+    "Variacion de precio",
+    "sin snapshot anterior"
+   ],
+   [
+    "Pesos",
+    "no publicados"
+   ]
+  ],
+  "group": "nvidia",
+  "updated": "2026-10-03",
+  "source": "https://openrouter.ai/nvidia/switchyard"
  },
  {
   "slug": "openai-gpt-3-5-turbo",
@@ -13530,7 +13606,7 @@
  {
   "slug": "qwen-qwen3-5-35b-a3b",
   "title": "Qwen: Qwen3.5-35B-A3B",
-  "summary": "Qwen: Qwen3.5-35B-A3B (qwen/qwen3.5-35b-a3b): el precio de prompt es 0.15 USD por 1M tokens y el precio de completion es 1 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada text, image, video; salida text; fecha de creacion 2026-02-25; variacion frente al snapshot anterior: prompt -0.0125 USD/1M; completion -0.3 USD/1M; pesos: Qwen/Qwen3.5-35B-A3B.",
+  "summary": "Qwen: Qwen3.5-35B-A3B (qwen/qwen3.5-35b-a3b): el precio de prompt es 0.15 USD por 1M tokens y el precio de completion es 1 USD por 1M tokens, con contexto de 262144 tokens. Modalidad entrada text, image, video; salida text; fecha de creacion 2026-02-25; variacion frente al snapshot anterior: sin cambio; pesos: Qwen/Qwen3.5-35B-A3B.",
   "facts": [
    [
     "Precio prompt / 1M",
@@ -13554,7 +13630,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt -0.0125 USD/1M; completion -0.3 USD/1M"
+    "sin cambio"
    ],
    [
     "Pesos",
@@ -13562,7 +13638,7 @@
    ]
   ],
   "group": "qwen",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/qwen/qwen3.5-35b-a3b"
  },
  {
@@ -15886,7 +15962,7 @@
  {
   "slug": "thinkingmachines-inkling",
   "title": "Thinking Machines: Inkling",
-  "summary": "Thinking Machines: Inkling (thinkingmachines/inkling): el precio de prompt es 0.95 USD por 1M tokens y el precio de completion es 4.05 USD por 1M tokens, con contexto de 524288 tokens. Modalidad entrada text, image, audio; salida text; fecha de creacion 2026-07-17; variacion frente al snapshot anterior: prompt -0.05 USD/1M; completion sin cambio; pesos: thinkingmachines/Inkling.",
+  "summary": "Thinking Machines: Inkling (thinkingmachines/inkling): el precio de prompt es 0.95 USD por 1M tokens y el precio de completion es 4.05 USD por 1M tokens, con contexto de 524288 tokens. Modalidad entrada text, image, audio; salida text; fecha de creacion 2026-07-17; variacion frente al snapshot anterior: sin cambio; pesos: thinkingmachines/Inkling.",
   "facts": [
    [
     "Precio prompt / 1M",
@@ -15910,7 +15986,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt -0.05 USD/1M; completion sin cambio"
+    "sin cambio"
    ],
    [
     "Pesos",
@@ -15918,7 +15994,7 @@
    ]
   ],
   "group": "thinkingmachines",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/thinkingmachines/inkling"
  },
  {
@@ -16114,7 +16190,7 @@
  {
   "slug": "unbiased-pareto-26-10-preview",
   "title": "Pareto 26.10 Preview",
-  "summary": "Pareto 26.10 Preview (unbiased/pareto-26.10-preview): el precio de prompt es 0.8 USD por 1M tokens y el precio de completion es 3.2 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image; salida text; fecha de creacion 2026-10-01; variacion frente al snapshot anterior: sin snapshot anterior; pesos: no publicados.",
+  "summary": "Pareto 26.10 Preview (unbiased/pareto-26.10-preview): el precio de prompt es 0.8 USD por 1M tokens y el precio de completion es 3.2 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image; salida text; fecha de creacion 2026-10-01; variacion frente al snapshot anterior: sin cambio; pesos: no publicados.",
   "facts": [
    [
     "Precio prompt / 1M",
@@ -16138,7 +16214,7 @@
    ],
    [
     "Variacion de precio",
-    "sin snapshot anterior"
+    "sin cambio"
    ],
    [
     "Pesos",
@@ -16146,7 +16222,7 @@
    ]
   ],
   "group": "unbiased",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/unbiased/pareto-26.10-preview"
  },
  {
@@ -17178,15 +17254,15 @@
  {
   "slug": "z-ai-glm-5-1",
   "title": "Z.ai: GLM 5.1",
-  "summary": "Z.ai: GLM 5.1 (z-ai/glm-5.1): el precio de prompt es 0.9646 USD por 1M tokens y el precio de completion es 3.0316 USD por 1M tokens, con contexto de 204800 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-04-07; variacion frente al snapshot anterior: sin cambio; pesos: zai-org/GLM-5.1.",
+  "summary": "Z.ai: GLM 5.1 (z-ai/glm-5.1): el precio de prompt es 1.4 USD por 1M tokens y el precio de completion es 4.4 USD por 1M tokens, con contexto de 204800 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-04-07; variacion frente al snapshot anterior: prompt +0.4354 USD/1M; completion +1.3684 USD/1M; pesos: zai-org/GLM-5.1.",
   "facts": [
    [
     "Precio prompt / 1M",
-    "0.9646 USD"
+    "1.4 USD"
    ],
    [
     "Precio completion / 1M",
-    "3.0316 USD"
+    "4.4 USD"
    ],
    [
     "Contexto",
@@ -17202,7 +17278,7 @@
    ],
    [
     "Variacion de precio",
-    "sin cambio"
+    "prompt +0.4354 USD/1M; completion +1.3684 USD/1M"
    ],
    [
     "Pesos",
@@ -17210,13 +17286,13 @@
    ]
   ],
   "group": "z-ai",
-  "updated": "2026-09-30",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/z-ai/glm-5.1"
  },
  {
   "slug": "z-ai-glm-5-2",
   "title": "Z.ai: GLM 5.2",
-  "summary": "Z.ai: GLM 5.2 (z-ai/glm-5.2): el precio de prompt es 0.41 USD por 1M tokens y el precio de completion es 3.99 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-06-16; variacion frente al snapshot anterior: prompt -0.69 USD/1M; completion -0.41 USD/1M; pesos: zai-org/GLM-5.2.",
+  "summary": "Z.ai: GLM 5.2 (z-ai/glm-5.2): el precio de prompt es 0.41 USD por 1M tokens y el precio de completion es 3.99 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-06-16; variacion frente al snapshot anterior: sin cambio; pesos: zai-org/GLM-5.2.",
   "facts": [
    [
     "Precio prompt / 1M",
@@ -17240,7 +17316,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt -0.69 USD/1M; completion -0.41 USD/1M"
+    "sin cambio"
    ],
    [
     "Pesos",
@@ -17248,13 +17324,13 @@
    ]
   ],
   "group": "z-ai",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/z-ai/glm-5.2"
  },
  {
   "slug": "z-ai-glm-5-3",
   "title": "Z.ai: GLM 5.3",
-  "summary": "Z.ai: GLM 5.3 (z-ai/glm-5.3): el precio de prompt es 1.4 USD por 1M tokens y el precio de completion es 4.4 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-08-18; variacion frente al snapshot anterior: prompt +1.1781 USD/1M; completion +1.01 USD/1M; pesos: zai-org/GLM-5.3.",
+  "summary": "Z.ai: GLM 5.3 (z-ai/glm-5.3): el precio de prompt es 1.4 USD por 1M tokens y el precio de completion es 4.4 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-08-18; variacion frente al snapshot anterior: sin cambio; pesos: zai-org/GLM-5.3.",
   "facts": [
    [
     "Precio prompt / 1M",
@@ -17278,7 +17354,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt +1.1781 USD/1M; completion +1.01 USD/1M"
+    "sin cambio"
    ],
    [
     "Pesos",
@@ -17286,7 +17362,7 @@
    ]
   ],
   "group": "z-ai",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/z-ai/glm-5.3"
  },
  {
@@ -17558,15 +17634,15 @@
  {
   "slug": "z-ai-glm-flash-latest",
   "title": "Z.ai: GLM Flash Latest",
-  "summary": "Z.ai: GLM Flash Latest (~z-ai/glm-flash-latest): el precio de prompt es 0.02625 USD por 1M tokens y el precio de completion es 0.9 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image, video; salida text; fecha de creacion 2026-08-27; variacion frente al snapshot anterior: prompt +0.00625 USD/1M; completion +0.6 USD/1M; pesos: no publicados.",
+  "summary": "Z.ai: GLM Flash Latest (~z-ai/glm-flash-latest): el precio de prompt es 0.035 USD por 1M tokens y el precio de completion es 0.5 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text, image, video; salida text; fecha de creacion 2026-08-27; variacion frente al snapshot anterior: prompt +0.00875 USD/1M; completion -0.4 USD/1M; pesos: no publicados.",
   "facts": [
    [
     "Precio prompt / 1M",
-    "0.02625 USD"
+    "0.035 USD"
    ],
    [
     "Precio completion / 1M",
-    "0.9 USD"
+    "0.5 USD"
    ],
    [
     "Contexto",
@@ -17582,7 +17658,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt +0.00625 USD/1M; completion +0.6 USD/1M"
+    "prompt +0.00875 USD/1M; completion -0.4 USD/1M"
    ],
    [
     "Pesos",
@@ -17590,13 +17666,13 @@
    ]
   ],
   "group": "z-ai",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/~z-ai/glm-flash-latest"
  },
  {
   "slug": "z-ai-glm-latest",
   "title": "Z.ai: GLM Latest",
-  "summary": "Z.ai: GLM Latest (~z-ai/glm-latest): el precio de prompt es 0.12 USD por 1M tokens y el precio de completion es 4 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-08-19; variacion frente al snapshot anterior: prompt +0.06 USD/1M; completion +1.306 USD/1M; pesos: no publicados.",
+  "summary": "Z.ai: GLM Latest (~z-ai/glm-latest): el precio de prompt es 0.12 USD por 1M tokens y el precio de completion es 4 USD por 1M tokens, con contexto de 1048576 tokens. Modalidad entrada text; salida text; fecha de creacion 2026-08-19; variacion frente al snapshot anterior: sin cambio; pesos: no publicados.",
   "facts": [
    [
     "Precio prompt / 1M",
@@ -17620,7 +17696,7 @@
    ],
    [
     "Variacion de precio",
-    "prompt +0.06 USD/1M; completion +1.306 USD/1M"
+    "sin cambio"
    ],
    [
     "Pesos",
@@ -17628,7 +17704,7 @@
    ]
   ],
   "group": "z-ai",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "https://openrouter.ai/~z-ai/glm-latest"
  }
 ]

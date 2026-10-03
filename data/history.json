@@ -445,6 +445,11 @@
    "completion": "0.000001",
    "date": "2026-09-30",
    "prompt": "0.0000003"
+  },
+  {
+   "completion": "0.000001",
+   "date": "2026-10-03",
+   "prompt": "0.00000027"
   }
  ],
  "deepseek/deepseek-v3.2": [
@@ -471,6 +476,11 @@
    "completion": "0.000000084",
    "date": "2026-10-01",
    "prompt": "0.000000042"
+  },
+  {
+   "completion": "0.000000056",
+   "date": "2026-10-03",
+   "prompt": "0.000000028"
   }
  ],
  "deepseek/deepseek-v4-flash-0731": [
@@ -488,6 +498,11 @@
    "completion": "0.00000128",
    "date": "2026-10-02",
    "prompt": "0.0000000051"
+  },
+  {
+   "completion": "0.00000128",
+   "date": "2026-10-03",
+   "prompt": "0.0000000188"
   }
  ],
  "deepseek/deepseek-v4-flash-vision-exp": [
@@ -814,6 +829,11 @@
    "completion": "0.0000003",
    "date": "2026-10-01",
    "prompt": "0.00000009"
+  },
+  {
+   "completion": "0.000000225",
+   "date": "2026-10-03",
+   "prompt": "0.0000000675"
   }
  ],
  "google/gemma-4-26b-a4b-it:free": [
@@ -898,6 +918,11 @@
    "completion": "0.00000018",
    "date": "2026-09-30",
    "prompt": "0.00000006"
+  },
+  {
+   "completion": "0.0000001232",
+   "date": "2026-10-03",
+   "prompt": "0.000000042"
   }
  ],
  "inclusionai/ling-3.0-flash-sante:free": [
@@ -912,6 +937,13 @@
    "completion": "0.0000000616",
    "date": "2026-09-30",
    "prompt": "0.000000021"
+  }
+ ],
+ "inclusionai/ling-3.1-flash": [
+  {
+   "completion": "0",
+   "date": "2026-10-03",
+   "prompt": "0"
   }
  ],
  "inference-net/schematron-v2-small": [
@@ -1342,6 +1374,11 @@
    "completion": "0.000001828",
    "date": "2026-10-01",
    "prompt": "0.00000043415"
+  },
+  {
+   "completion": "0.000004",
+   "date": "2026-10-03",
+   "prompt": "0.00000095"
   }
  ],
  "moonshotai/kimi-k2.7-code": [
@@ -1500,6 +1537,11 @@
    "completion": "0.00000016",
    "date": "2026-10-02",
    "prompt": "0.00000006"
+  },
+  {
+   "completion": "0.00000017",
+   "date": "2026-10-03",
+   "prompt": "0.0000000595"
   }
  ],
  "nvidia/nemotron-3.5-lightning:free": [
@@ -1507,6 +1549,13 @@
    "completion": "0",
    "date": "2026-09-30",
    "prompt": "0"
+  }
+ ],
+ "nvidia/switchyard": [
+  {
+   "completion": "-1",
+   "date": "2026-10-03",
+   "prompt": "-1"
   }
  ],
  "openai/gpt-3.5-turbo": [
@@ -3172,6 +3221,11 @@
    "completion": "0.0000030316",
    "date": "2026-09-30",
    "prompt": "0.0000009646"
+  },
+  {
+   "completion": "0.0000044",
+   "date": "2026-10-03",
+   "prompt": "0.0000014"
   }
  ],
  "z-ai/glm-5.2": [
@@ -3298,6 +3352,11 @@
    "completion": "0.0000012",
    "date": "2026-10-02",
    "prompt": "0.000000003"
+  },
+  {
+   "completion": "0.0000006",
+   "date": "2026-10-03",
+   "prompt": "0.00000002"
   }
  ],
  "~deepseek/deepseek-pro-latest": [
@@ -3315,6 +3374,11 @@
    "completion": "0.000000396",
    "date": "2026-10-02",
    "prompt": "0.000000132"
+  },
+  {
+   "completion": "0.0000042",
+   "date": "2026-10-03",
+   "prompt": "0.00000012"
   }
  ],
  "~deepseek/deepseek-v4-flash-latest": [
@@ -3332,6 +3396,11 @@
    "completion": "0.00000128",
    "date": "2026-10-02",
    "prompt": "0.0000000051"
+  },
+  {
+   "completion": "0.00000128",
+   "date": "2026-10-03",
+   "prompt": "0.0000000188"
   }
  ],
  "~google/gemini-flash-latest": [
@@ -3368,6 +3437,11 @@
    "completion": "0.000013",
    "date": "2026-10-02",
    "prompt": "0.00000139"
+  },
+  {
+   "completion": "0.000013",
+   "date": "2026-10-03",
+   "prompt": "0.0000009895"
   }
  ],
  "~openai/gpt-astra-latest": [
@@ -3427,6 +3501,11 @@
    "completion": "0.0000009",
    "date": "2026-10-02",
    "prompt": "0.00000002625"
+  },
+  {
+   "completion": "0.0000005",
+   "date": "2026-10-03",
+   "prompt": "0.000000035"
   }
  ],
  "~z-ai/glm-latest": [
